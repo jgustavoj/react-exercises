@@ -68,7 +68,7 @@
         {
             "slug": "01.3-rendering-from-objects",
             "title": "01.3-rendering-from-objects",
-            "done": false,
+            "done": true,
             "path": "exercises/01.3-rendering-from-objects",
             "translations": [
                 "es",
@@ -90,7 +90,7 @@
         {
             "slug": "01.5-building-html-from-arrays",
             "title": "01.5-building-html-from-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/01.5-building-html-from-arrays",
             "translations": [
                 "es",
@@ -101,7 +101,7 @@
         {
             "slug": "02-maping-array-to-li",
             "title": "02-maping-array-to-li",
-            "done": false,
+            "done": true,
             "path": "exercises/02-maping-array-to-li",
             "translations": [
                 "es",
@@ -112,7 +112,7 @@
         {
             "slug": "02.1-maping-array-objects-to-li",
             "title": "02.1-maping-array-objects-to-li",
-            "done": false,
+            "done": true,
             "path": "exercises/02.1-maping-array-objects-to-li",
             "translations": [
                 "es",
