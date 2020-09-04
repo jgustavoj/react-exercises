@@ -16,17 +16,16 @@ const data = {
  * define the variable 'content' here and fill it with the
  * needed code to render the bootstrap card
  **/
-const content = (
+const content = 
 	<div className="card m-5">
 		<img className="card-img-top" src={data.image} alt="Card image cap" />
 		<div className="card-body">
 			<h5 className="card-title">{data.cardTitle}</h5>
 			<p className="card-text">{data.cardDescription}</p>
-			<a href={data.button.url} class="btn btn-primary">
+			<a href={data.button.url} className="btn btn-primary">
 				{data.button.label}
 			</a>
 		</div>
-	</div>
-);
+	</div>;
 
 ReactDOM.render(content, document.querySelector("#myDiv"));
